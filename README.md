@@ -1,4 +1,4 @@
-<h1 align="center"> Ejercicio y proyectos realizados en Java desde lo basi hasta avanzado </h1>
+<h1 align="center"> Ejercicio y proyectos realizados en Java desde lo basico hasta avanzado </h1>
 <p align="center">
   <img width="50%"
 src="https://miracomosehace.com/wp-content/uploads/2020/07/logo-java.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1"/>
@@ -8,6 +8,7 @@ src="https://miracomosehace.com/wp-content/uploads/2020/07/logo-java.jpg?ezimgfm
 
 <h4>Ejercicio 2 : Crear una clase llamada VideoJuego, que tenga los siguientes atributos:
 codigo, titulo, consola, cantidadJugadores, categoria(tener en cuenta todos sus atributos, constructores, métodos getters y setters).
+
 
 - Crear una ArrayList de tipo VideoJuego. Crear  videojegos y guardarlos en la collection.
 - Recorrer la ArrayList creada y mostrar por pantalla el titulo, consola y cantidad de jugadores de los video juegos almacenados.
