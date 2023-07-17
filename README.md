@@ -6,7 +6,7 @@ src="https://miracomosehace.com/wp-content/uploads/2020/07/logo-java.jpg?ezimgfm
 <h4>Ejercicio 1 : integrador en Java utilizando Programación Orientada a Objetos, esta vez utilizando todos los conceptos de clases, constructores, métodos, interfaces y clases abstractas simulando el modelado para un VIDEOJUEGO DE POKEMON</h4>
 
 
-<h4>Ejercicio 2 : Crear una clase llamada VideoJuego, que tenga los siguientes atributos:
+<h4>Ejercicio 2 (Videojuego) : Crear una clase llamada VideoJuego, que tenga los siguientes atributos:
 codigo, titulo, consola, cantidadJugadores, categoria(tener en cuenta todos sus atributos, constructores, métodos getters y setters).
 
 
