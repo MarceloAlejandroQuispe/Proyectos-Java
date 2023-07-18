@@ -1,4 +1,4 @@
-<h1 align="center"> Ejercicio y proyectos realizados en Java desde lo basico hasta avanzado </h1>
+<h1 align="center"> Ejercicio y proyectos realizados en Java de basico hasta avanzado </h1>
 <p align="center">
   <img width="50%"
 src="https://miracomosehace.com/wp-content/uploads/2020/07/logo-java.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1"/>
