@@ -23,8 +23,8 @@ codigo, titulo, consola, cantidadJugadores, categoria(tener en cuenta todos sus 
   - Arbusto : Ancho de arbusto, si es o no domestico, variedad de arbusto, color de hojas, se poda o no?.
 
 * Una vez creadas las clases, crear los siguientes métodos :
-  - Árbol : método para mostrar un mensaje en pantalla que diga "Hola soy un árbol"
-  - Flor : método para mostrar un mensaje en pantalla que diga "Hola soy una flor"
+  - Árbol : método para mostrar un mensaje en pantalla que diga   "Hola soy un árbol"
+  - Flor : método para mostrar un mensaje en pantalla que diga    "Hola soy una flor"
   - Arbusto : método para mostrar un mensaje en pantalla que diga "Hola soy un arbusto"
   
 * Crear en el Main un objeto  de cada clase hija . Llamar a los 3 metodos desde cada objeto.
