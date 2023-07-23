@@ -29,3 +29,6 @@ codigo, titulo, consola, cantidadJugadores, categoria(tener en cuenta todos sus 
   
 * Crear en el Main un objeto  de cada clase hija . Llamar a los 3 metodos desde cada objeto.
 * Cambiar el modificadorde acceso de los metodos de public a private. Intentar acceder desde el main  a estos metodos</h4>
+
+<h4>Ejercicio 4 : CRUD en JAVA con JPA </h4> 
+
