@@ -34,3 +34,7 @@ codigo, titulo, consola, cantidadJugadores, categoria(tener en cuenta todos sus 
 
 <h4>Ejercicio 5 : APP Java con CRUD  y JPA 
  Se realiza una App en Java POO  realizando CRUD , utilizando base de datos Mysql, XAMPP, Localhost Y phpmyadmin para poder realizar todas las modificaciones, altas bajas y metodo MVC (MODELO, VISTA, CONTROLADOR) para poder lograr una aplicacion completamente funcional y practica.    </h4> 
+
+
+<h4>Ejercicio 6 : APP Java con CRUD,   JPA , ECLIPSELINK .
+Se logra una aplicacion funcional donde se puede crear un auto, con sus respectivas caracteristicas, modificarlo, eliminarlo, creando las distintas capas IGU</h4>
