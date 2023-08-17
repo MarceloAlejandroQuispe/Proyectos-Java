@@ -1,0 +1,14 @@
+com\todocodeacademy\login\igu\Principal$3.class
+com\todocodeacademy\login\persistencia\exceptions\NonexistentEntityException.class
+com\todocodeacademy\login\persistencia\UsuarioJpaController.class
+com\todocodeacademy\login\persistencia\ControladoraPersistencia.class
+com\todocodeacademy\login\logica\Controladora.class
+com\todocodeacademy\login\logica\Usuario.class
+com\todocodeacademy\login\igu\Principal.class
+com\todocodeacademy\login\igu\Principal$1.class
+com\todocodeacademy\login\igu\txtContrasenia.class
+com\todocodeacademy\login\Login.class
+com\todocodeacademy\login\persistencia\exceptions\PreexistingEntityException.class
+com\todocodeacademy\login\logica\Usuario_.class
+com\todocodeacademy\login\igu\Principal$2.class
+com\todocodeacademy\login\persistencia\exceptions\IllegalOrphanException.class
