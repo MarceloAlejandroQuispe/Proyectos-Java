@@ -38,3 +38,7 @@ codigo, titulo, consola, cantidadJugadores, categoria(tener en cuenta todos sus 
 
 <h4>Ejercicio 6 : APP Java con CRUD,   JPA , ECLIPSELINK .
 Se logra una aplicacion funcional donde se puede crear un auto, con sus respectivas caracteristicas, modificarlo, eliminarlo, creando las distintas capas IGU</h4>
+
+
+<h4>Ejercicio 7 : APP Login en Java con CRUD,   JPA , ECLIPSELINK .
+Se realiza  para comprobar la introduccion correcta e incorrecta de contraseñas para poder hacer el ingreso a un segundo modulo</h4>
